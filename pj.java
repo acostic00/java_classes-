@@ -1,5 +1,3 @@
-package sankalp;
-
 public class chachaji {
 
 	public static void main(String[] args) {
